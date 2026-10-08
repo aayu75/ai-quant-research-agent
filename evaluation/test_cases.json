@@ -1,0 +1,41 @@
+[
+    {
+        "id": "TC001",
+        "query": "Analyze AAPL momentum and risk",
+        "ticker": "AAPL",
+        "expected_workflow": [
+            "planner",
+            "data",
+            "quant",
+            "risk",
+            "critic",
+            "report"
+        ]
+    },
+    {
+        "id": "TC002",
+        "query": "Analyze MSFT momentum and risk",
+        "ticker": "MSFT",
+        "expected_workflow": [
+            "planner",
+            "data",
+            "quant",
+            "risk",
+            "critic",
+            "report"
+        ]
+    },
+    {
+        "id": "TC003",
+        "query": "Analyze NVDA momentum and risk",
+        "ticker": "NVDA",
+        "expected_workflow": [
+            "planner",
+            "data",
+            "quant",
+            "risk",
+            "critic",
+            "report"
+        ]
+    }
+]

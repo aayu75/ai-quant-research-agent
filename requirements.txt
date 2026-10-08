@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-core
+langgraph
+openai
+pandas
+numpy
+python-dotenv
+pytest
+yfinance
+scikit-learn
+mcp<2
